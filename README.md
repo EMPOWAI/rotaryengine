@@ -1,1 +1,23 @@
-# rotaryengine
+# EmpowAI engine, the 3d gen rotary engine: Edge AI computing on unmanned aerial vehicles (UAVs) faces a steep energy and thermal bottleneck. High-performance machine learning workloads—such as real-time computer vision, object classification, and sensor-fusion orchestration—are highly resource-intensive, pushing massive power demands onto edge hardware. Today, the main limiting factor is not the AI software, but the physical power source.
+
+Lithium-ion batteries carry a severe energy density penalty, restricting edge AI drone missions to short operational windows (often under 45 minutes) and small payload capacities. When developers turn to hybrid internal combustion engines to act as range extenders, they face a new efficiency barrier. Conventional piston engines are limited by high sliding friction, complex reciprocating mass, and heavy valvetrains. Alternative high-RPM concepts eliminate physical seals but require extreme velocities up to 25,000 RPM, forcing a "gearing penalty" via heavy reduction gearboxes and creating a high-frequency acoustic whine that violates tactical stealth and residential noise ordinances. This physical weight and energy loss directly limits the size and continuous runtime of edge AI pipelines.
+
+Translation-Ready Technology
+EmpowAI LLC resolves this physical power constraint with a proprietary, third-generation rotary engine designed specifically as a high-density, low-vibration hybrid range extender and auxiliary power unit (APU). Co-founded by systems architect Kirk Hsin and UC Berkeley materials scientist Tim Wei, our translation-ready technology discards legacy Wankel design limits.
+
+Instead of relying on heavy mechanical gear trains or open clearances that cause gas leakage, EmpowAI uses AI-driven, pure mathematical equations to map out optimized, zero-friction kinematic paths. The architecture features a highly simulated structural housing and an advanced, simulation-driven sealing mechanism that maintains precise, tight tolerances across volatile thermal cycles. This allows the engine to drive high-speed edge generators and ducted fans directly, completely bypassing the reliability and weight penalties of traditional designs.
+
+Why It Is Translation-Ready
+The core development of the EmpowAI engine is entirely translation-ready because the fundamental geometric configurations, kinematic equations, and fluid-dynamic port locations have already been mathematically proven and fully optimized in simulated software environments. The remaining development work consists of standard mechanical engineering, hardware integration, and physical testing, rather than open-ended scientific research. With our mathematical models completed, the project is fully primed to move into physical additive manufacturing, structural component testing, and real-world data validation alongside our deployment partners.
+
+Application and Expected Efficiency Gains
+The EmpowAI engine will be deployed as a highly compact, on-board hybrid generator connected directly to the drone’s electrical bus. Running continuously at its high-efficiency RPM sweet spot, the engine acts as an auxiliary power unit to supply steady, high-density electrical currents to the onboard edge AI processors.
+By replacing sliding friction bottlenecks with mathematically mapped pathways, we expect to demonstrate a 30% reduction in specific fuel consumption (SFC) compared to legacy Wankels, a complete elimination of reduction gearbox weight, and an ultra-low, turbine-like acoustic hum that slashes external noise-baffling weight by up to 40%. This massive weight reduction and fuel efficiency boost directly translates into a 4x to 6x increase in continuous edge AI operational uptime, giving onboard models the power needed for uninterrupted inference execution.
+Differentiation
+Our approach fundamentally differs from existing aerospace and automotive propulsion solutions across five key metrics:
+
+●	Efficiency: Bypasses both the mechanical friction of piston engines and the high-speed gas leakage of open-clearance rotary concepts.
+●	Generality: Highly adaptable across diverse alternative fuels, serving as an ideal platform for zero-emission Hydrogen ($H_2$) combustion due to its naturally isolated cool intake zones.
+●	Accessibility: Designed from the ground up for high-precision, 3D-printable additive manufacturing, drastically reducing specialized tooling costs and supply chain lead times.
+●	Safety & Fault Tolerance: Eliminates complex reciprocating parts vulnerable to sudden, catastrophic failures. Localized wear results in a gradual, predictable power drop rather than an instantaneous lockup, ensuring safe drone recoveries.
+●	Integration Cost: The smooth, vibration-free rotary movement eliminates the need for heavy structural dampening mounts, allowing seamless retrofitting into existing Group 2/3 UAV airframes and mobile hybrid charging enclosures.
